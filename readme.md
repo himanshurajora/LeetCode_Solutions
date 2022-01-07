@@ -11,4 +11,4 @@
 - Array Problems
     1. [Two Sum](./Easy/Array/TwoSum)
     2. [Remove Duplicates from Sorted Array](./Easy/Array/RemoveDuplicatesFromSortedArray)
-    
+    3. [Remove Element](./Easy/Array/RemoveElement)
