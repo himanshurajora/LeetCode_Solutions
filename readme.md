@@ -14,3 +14,4 @@
     3. [Remove Element](./Easy/Array/RemoveElement)
     4. [Search Insert Position](./Easy/Array/SearchInsertPosition)
     5. [Maximum Subarray](./Easy/Array/MaximumSubarray)
+    6. [Plus One](./Easy/Array/PlusOne)
