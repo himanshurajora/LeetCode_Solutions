@@ -16,3 +16,4 @@
     5. [Maximum Subarray](./Easy/Array/MaximumSubarray)
     6. [Plus One](./Easy/Array/PlusOne)
     7. [Merge Sorted Arrays](./Easy/Array/MergeSortedArrays)
+    8. [Convert Sorted Array to Binary Search Tree](./Easy/Array/ConvertSortedToBST)
